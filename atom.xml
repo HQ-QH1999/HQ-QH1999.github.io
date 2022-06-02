@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://HQ-QH1999.github.io</id>
     <title>UnityBlog</title>
-    <updated>2022-06-02T05:38:42.863Z</updated>
+    <updated>2022-06-02T05:42:53.428Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://HQ-QH1999.github.io"/>
     <link rel="self" href="https://HQ-QH1999.github.io/atom.xml"/>
@@ -10,6 +10,26 @@
     <logo>https://HQ-QH1999.github.io/images/avatar.png</logo>
     <icon>https://HQ-QH1999.github.io/favicon.ico</icon>
     <rights>All rights reserved 2022, UnityBlog</rights>
+    <entry>
+        <title type="html"><![CDATA[剑指 Offer 30. 包含min函数的栈]]></title>
+        <id>https://HQ-QH1999.github.io/post/jian-zhi-offer-30-bao-han-min-han-shu-de-zhan/</id>
+        <link href="https://HQ-QH1999.github.io/post/jian-zhi-offer-30-bao-han-min-han-shu-de-zhan/">
+        </link>
+        <updated>2022-06-02T05:39:36.000Z</updated>
+        <content type="html"><![CDATA[<p>定义栈的数据结构，请在该类型中实现一个能够得到栈的最小元素的 min 函数在该栈中，调用 min、push 及 pop 的时间复杂度都是 O(1)。</p>
+<p>示例:</p>
+<p>MinStack minStack = new MinStack();<br>
+minStack.push(-2);<br>
+minStack.push(0);<br>
+minStack.push(-3);<br>
+minStack.min();   --&gt; 返回 -3.<br>
+minStack.pop();<br>
+minStack.top();      --&gt; 返回 0.<br>
+minStack.min();   --&gt; 返回 -2.</p>
+<p>提示：</p>
+<p>各函数的调用总次数不超过 20000 次</p>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[剑指 Offer 09. 用两个栈实现队列]]></title>
         <id>https://HQ-QH1999.github.io/post/jian-zhi-offer-09-yong-liang-ge-zhan-shi-xian-dui-lie/</id>
