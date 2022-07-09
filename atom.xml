@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://HQ-QH1999.github.io</id>
     <title>UnityBlog</title>
-    <updated>2022-06-02T05:44:05.568Z</updated>
+    <updated>2022-07-09T02:14:12.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://HQ-QH1999.github.io"/>
     <link rel="self" href="https://HQ-QH1999.github.io/atom.xml"/>
@@ -10,6 +10,42 @@
     <logo>https://HQ-QH1999.github.io/images/avatar.png</logo>
     <icon>https://HQ-QH1999.github.io/favicon.ico</icon>
     <rights>All rights reserved 2022, UnityBlog</rights>
+    <entry>
+        <title type="html"><![CDATA[计算机概要与技术]]></title>
+        <id>https://HQ-QH1999.github.io/post/ji-suan-ji-gai-yao-yu-ji-zhu/</id>
+        <link href="https://HQ-QH1999.github.io/post/ji-suan-ji-gai-yao-yu-ji-zhu/">
+        </link>
+        <updated>2022-06-21T10:26:06.000Z</updated>
+        <content type="html"><![CDATA[<p>##引言<br>
+###计算应用的分类及其特性<br>
+####个人计算机<br>
+####服务器<br>
+####嵌入计算机<br>
+##计算机系统结构的8个伟大思想<br>
+##程序概念入门<br>
+##硬件概念入门<br>
+##处理器和存储器制造技术<br>
+##性能<br>
+##功耗墙<br>
+##单处理器向多处理器的转变<br>
+##Inter Core I7的基准<br>
+##谬误与陷阱<br>
+##本章小结<br>
+##历史观点和拓展阅读<br>
+##练习题</p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[十大排序——冒泡排序]]></title>
+        <id>https://HQ-QH1999.github.io/post/shi-da-pai-xu-mou-pao-pai-xu/</id>
+        <link href="https://HQ-QH1999.github.io/post/shi-da-pai-xu-mou-pao-pai-xu/">
+        </link>
+        <updated>2022-06-19T10:59:53.000Z</updated>
+        <content type="html"><![CDATA[<p>###冒泡排序<br>
+###冒泡排序的改进<br>
+###鸡尾酒排序</p>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[剑指 Offer 30. 包含min函数的栈]]></title>
         <id>https://HQ-QH1999.github.io/post/jian-zhi-offer-30-bao-han-min-han-shu-de-zhan/</id>
